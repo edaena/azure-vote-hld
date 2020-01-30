@@ -1,0 +1,7 @@
+name: voting-app
+subcomponents:
+  - name: azure-vote
+    method: git
+    type: helm
+    source: 'https://github.com/edaena/helm-charts.git'
+    path: chart-source/azure-vote
