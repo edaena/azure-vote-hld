@@ -1,0 +1,3 @@
+config:
+  image:
+    tag: edaenaacr.azurecr.io/oh/azure-vote-front:v2
